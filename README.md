@@ -1,6 +1,6 @@
 # The Keeper App
 
-This is a repo that houses the base code for a React.js application. The Keeper App is a place where yo can make so a variety of of activities from shoping list, take notes to brainstorming for projects. The user is able to add, edit and delete its titles and main content of any of the or list  or ideas at any time!.
+This is a repo that houses the base code for a React.js application. The Keeper App is a place where yo can make so a variety of of activities from shoping list, take notes to brainstorming for projects. The user is able to add, edit and delete its titles and main content of any of the or list  or ideas at any time!
 
 
 
